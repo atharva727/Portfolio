@@ -1,0 +1,20 @@
+.skills-title{
+    font-size: 26px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #45505b;
+}
+
+.skill-item {
+    border-radius: 15px;
+    text-align: center;
+    padding: 8px;
+    margin: 6px;
+    min-width: 100px;
+}
+
+.skill-item i, .skill-item .fas{
+    font-size: 40px;
+    margin-bottom: 10%;
+}
