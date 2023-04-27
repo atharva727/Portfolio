@@ -23,3 +23,13 @@
     height: 15px; 
     margin-bottom: 3px;
 }
+
+.portfolio-info span {
+    margin: 0 1px;
+    border-radius: 15px;
+    background: rgba(5, 99, 187, 0.25);
+    padding: 5px 10px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
