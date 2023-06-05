@@ -391,6 +391,14 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  font-size: 20px;
+}
+
+@media (max-width: 991px) {
+  .section-title p {
+    font-size: 16px;
+  }
+
 }
 
 /*--------------------------------------------------------------
@@ -411,6 +419,7 @@ section {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
+  font-size: 20px;
 }
 
 .about .content ul strong {
